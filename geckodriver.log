@@ -1,0 +1,121 @@
+1671628234388	geckodriver	INFO	Listening on 127.0.0.1:39593
+1671628234972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0SBSoe"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1671628235717	Marionette	INFO	Marionette enabled
+1671628235722	Marionette	INFO	Listening on port 39589
+WebDriver BiDi listening on ws://localhost:59995
+Read port: 39589
+1671628235841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0SBSoe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59995/devtools/browser/79d3e272-37d3-4230-90d9-49f45a99f103
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1671628270755	Marionette	INFO	Stopped listening on port 39589
+1671628273284	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1671628279339	geckodriver	INFO	Listening on 127.0.0.1:56893
+1671628279917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyAxujA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1671628280598	Marionette	INFO	Marionette enabled
+1671628280602	Marionette	INFO	Listening on port 40779
+WebDriver BiDi listening on ws://localhost:50297
+Read port: 40779
+1671628280766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyAxujA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50297/devtools/browser/fdc7cc11-9d9e-4773-af13-61c2caea2f0f
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1671628293263	Marionette	INFO	Stopped listening on port 40779
+1671628515558	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1671628524190	geckodriver	INFO	Listening on 127.0.0.1:59491
+1671628524731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaQdZ2k"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1671628525477	Marionette	INFO	Marionette enabled
+1671628525481	Marionette	INFO	Listening on port 36063
+WebDriver BiDi listening on ws://localhost:49035
+Read port: 36063
+1671628525624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaQdZ2k/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49035/devtools/browser/d0984371-863d-4b99-82b7-c34949d6abb3
+JavaScript error: https://www.camara.leg.br/internet/sitaqweb/TextoHTML.asp?etapa=5&nuSessao=184.4.53.O&nuQuarto=120&nuOrador=4&nuInsercao=13&dtHorarioQuarto=17:58&sgFaseSessao=OD&Data=03/11/2010&txApelido=NILSON%20MOUR%C3%83O,%20PT-AC&txFaseSessao=Ordem%20do%20Dia&txTipoSessao=Ordin%C3%A1ria%20-%20CD&dtHoraQuarto=17:58&txEtapa=, line 27: ReferenceError: $ is not defined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3367: TypeError: data.frameData.id is null
+JavaScript error: https://www.camara.leg.br/internet/sitaqweb/TextoHTML.asp?etapa=5&nuSessao=184.4.53.O&nuQuarto=120&nuOrador=4&nuInsercao=16&dtHorarioQuarto=17:58&sgFaseSessao=OD&Data=03/11/2010&txApelido=VIRG%C3%8DLIO%20GUIMAR%C3%83ES,%20PT-MG&txFaseSessao=Ordem%20do%20Dia&txTipoSessao=Ordin%C3%A1ria%20-%20CD&dtHoraQuarto=17:58&txEtapa=, line 27: ReferenceError: $ is not defined
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 402))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:402:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+send@resource://devtools/server/devtools-server-connection.js:99:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1070:10
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1875:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 402))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:402:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+send@resource://devtools/server/devtools-server-connection.js:99:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_emitResourcesForm@resource://devtools/server/actors/targets/target-actor-mixin.js:222:12
+notifyResourceAvailable@resource://devtools/server/actors/targets/target-actor-mixin.js:179:12
+onDocumentEvent@resource://devtools/server/actors/resources/document-event.js:51:18
+watch/<@resource://devtools/server/actors/resources/document-event.js:92:30
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onStateChange@resource://devtools/server/actors/webconsole/listeners/document-events.js:193:12
+
+console.error: "Unable to find target with innerWindowId:4294967311"
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3367: TypeError: data.frameData.id is null
+1671630879541	geckodriver	INFO	Listening on 127.0.0.1:58545
+1671630880110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4RgEwm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1671630880782	Marionette	INFO	Marionette enabled
+1671630880787	Marionette	INFO	Listening on port 43639
+WebDriver BiDi listening on ws://localhost:60931
+Read port: 43639
+1671630880920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4RgEwm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60931/devtools/browser/060ad79b-dcfe-41c0-a2c2-ea075101faa9
+1671630986845	geckodriver	INFO	Listening on 127.0.0.1:46655
+1671630987425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK6LywF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1671630988116	Marionette	INFO	Marionette enabled
+1671630988120	Marionette	INFO	Listening on port 40701
+Read port: 40701
+WebDriver BiDi listening on ws://localhost:43763
+1671630988295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK6LywF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43763/devtools/browser/bc06165a-fdee-4d54-82e1-0169bdbefcaa
